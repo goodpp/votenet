@@ -3,6 +3,9 @@ Created by <a href="http://charlesrqi.com" target="_blank">Charles R. Qi</a>, <a
 
 ![teaser](https://github.com/facebookresearch/votenet/blob/master/doc/teaser.jpg)
 
+## Support cuda11, 
+See ![https://github.com/facebookresearch/votenet/issues/108)](https://github.com/facebookresearch/votenet/issues/108)
+
 ## Introduction
 This repository is code release for our ICCV 2019 paper (arXiv report [here](https://arxiv.org/pdf/1904.09664.pdf)).
 
